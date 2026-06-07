@@ -23,4 +23,4 @@ Docker • Kubernetes • AWS EC2 • Bash • Git • Linux
 ## Author
 **Vamshidhar Reddy Neelipally**  
 AWS Certified Cloud Practitioner  
-[LinkedIn](your-linkedin-url) • [DockerHub](https://hub.docker.com/u/vamshi82)
+[LinkedIn](https://www.linkedin.com/in/n-vamshidhar-reddy/) • [DockerHub](https://hub.docker.com/u/vamshi82)
