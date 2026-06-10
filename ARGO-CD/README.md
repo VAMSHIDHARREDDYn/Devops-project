@@ -35,12 +35,12 @@ kubectl patch svc argocd-server -n argocd -p '{"spec": {"type": "LoadBalancer"}}
 5. Application updates with zero manual intervention
 
 ## Screenshots
-![ArgoCD Login](screenshots/argocd-login.png)
-![ArgoCD Dashboard](screenshots/argocd-dashboard.png)
-![App Tree](screenshots/argocd-app-tree.png)
-![Deployment Details](screenshots/argocd-deployment.png)
-![Service Details](screenshots/argocd-service.png)
-![Live Application](screenshots/app-live.png)
+![ArgoCD Login](screenshots/argocd.png)
+![ArgoCD Dashboard](screenshots/argocd-1.png)
+![App Tree](screenshots/argo-cd-3.png)
+![Deployment Details](screenshots/argocd-4.png)
+![Service Details](screenshots/argocd-5.png)
+![Live Application](screenshots/argocd-6.png)
 
 ## Tech Stack
 ArgoCD • Kubernetes • EKS • GitOps • GitHub • AWS
