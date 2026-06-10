@@ -20,7 +20,7 @@ docker tag my-tomcat vamshi82/my-tomcat:latest
 docker push vamshi82/my-tomcat:latest
 
 ## Screenshots
-![Tomcat Live](screenshots/tomcat-running.png)
+![Tomcat Live](screenshots/nodes.png)
 
 ## Tech Stack
 Docker • Tomcat • Bash • Linux
