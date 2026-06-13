@@ -1,5 +1,6 @@
 # DevOps Project - Vamshidhar Reddy Neelipally
-https://github.com/VAMSHIDHARREDDYn/Devops-project/blob/main/screenshots/full-scale-project.png
+<img width="1447" height="736" alt="full-scale-project" src="https://github.com/user-attachments/assets/91e6e188-365f-45ed-bf0b-225554e2c197" />
+
 
 End-to-end GitOps pipeline deploying a Dockerized Tomcat application
 to Kubernetes on EKS using ArgoCD for automated sync.
