@@ -1,5 +1,6 @@
 # DevOps Project - Vamshidhar Reddy Neelipally
-<img width="1447" height="736" alt="full-scale-project" src="https://github.com/user-attachments/assets/91e6e188-365f-45ed-bf0b-225554e2c197" />
+<img width="1408" height="768" alt="agro-architecture" src="https://github.com/user-attachments/assets/1df70a20-cb96-4e6c-aa13-381323b7511e" />
+
 
 
 End-to-end GitOps pipeline deploying a Dockerized Tomcat application
